@@ -21,7 +21,7 @@
 \usepackage{tikz}
 \graphicspath{{/storage/emulated/0/Download/FWC/Latex/figs}}
 \usepackage[colorlinks,linkcolor={black},citecolor={blue!80!black},urlcolor={blue!80!black}]{hyperref}
-\title{\textbf{\textsc{VERIFICATION OF BOOLEAN IDENTITIES}}}
+\title{\textbf{\textsc{VERIFICATION OF XOR GATE}}}
 \author{\textbf{\textit{\teflipflopxtbf{RAMESHWAR SAINATH PAWAR (1032222095)}}}}
 \begin{document}
 \date{}
